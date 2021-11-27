@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffoio&theme=noctis_minimus&show_icons=true)
+
+
 <!--
 **jeffoio/jeffoio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
