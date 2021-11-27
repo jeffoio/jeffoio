@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffoio&theme=noctis_minimus&show_icons=true)
+<!-- ![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffoio&theme=noctis_minimus&show_icons=true) -->
 
 
 <!--
